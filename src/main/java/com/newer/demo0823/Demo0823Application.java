@@ -9,7 +9,5 @@ public class Demo0823Application {
     public static void main(String[] args) {
         SpringApplication.run(Demo0823Application.class, args);
     }
-    //易霖小可爱;不能删的
-    //易霖好娘炮；
-    //杨笃你真的6
+
 }
