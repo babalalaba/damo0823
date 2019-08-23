@@ -8,9 +8,11 @@ public class Demo0823Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Demo0823Application.class, args);
+        Date date=new Date();
+        System.out.println(date);
     }
     //易霖小可爱
 
-
+    //我是dyy-2019
     //大魔头
 }
